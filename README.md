@@ -27,43 +27,19 @@
 <hr><br>
 <!--Gap End-->
 
-<!--Table of Contents-->
+<!-- How to run -->
 <div align=center>
   <h2>
-    Table of Contents
+    How to Run
   </h2>
-  <h3>
-    CMD cURL
-  </h3>
-  <table >
-    <!--Header-->
-    <thead align=center>
-      <th>NO</th> <th>TITLE</th> <th>LINK</th>
-    </thead>
-    <!--Header End-->
-    <tbody align=center>
-      <!-- 1 -->
-      <tr>
-        <td>1</td>
-        <td>ASCII</td>
-        <td>
-            <a href="https://github.com/guanshiyin28/CMD-Curl/blob/master/ASCII.bat">ASCII</a>
-        </td>
-      </tr>
-      <!-- 1 -->
-      <!-- 2 -->
-      <tr>
-        <td>2</td>
-        <td>Globe</td>
-        <td>
-            <a href="https://github.com/guanshiyin28/CMD-Curl/blob/master/Globe.bat">Globe</a>
-        </td>
-      </tr>
-      <!-- 2 -->
-    </tbody>
-  </table>
+  <h4 align=left>
+    1. Just start it
+  </h4>
+  
+![1](https://github.com/user-attachments/assets/77e66fea-47b4-45ab-afb2-8265f0fdd9b0)&nbsp; ![2](https://github.com/user-attachments/assets/68646dcf-656a-4f4c-b89a-954383fdaf70)
 </div>
-<!--Table of Contents End-->
+
+<!-- End How to run -->
 
 <!--Gap-->
 <br>
