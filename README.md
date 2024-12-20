@@ -1,9 +1,7 @@
-<hr>
 <div align=center>
   
 ![Demo](https://github.com/user-attachments/assets/446e70c4-be6a-49ac-950e-506a86421309)
 </div>
-<hr>
 
 # cURL
 cURL is a versatile command-line tool for transferring data using various protocols, allowing you to fetch web pages, download and upload files, make HTTP requests, and test APIs.
