@@ -22,7 +22,6 @@ Doing something fun with cURL.
 <div align=center>
   
 ![1](https://github.com/user-attachments/assets/77e66fea-47b4-45ab-afb2-8265f0fdd9b0)
-![2](https://github.com/user-attachments/assets/68646dcf-656a-4f4c-b89a-954383fdaf70)
 </div>
 <hr><br>
 
