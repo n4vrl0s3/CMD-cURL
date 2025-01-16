@@ -15,6 +15,22 @@ Doing something fun with cURL.
 
 <hr><br>
 
+## Features
+
+- Fetch web pages
+- Download and upload files
+- Make HTTP requests
+- Test APIs
+
+<hr><br>
+
+## Technologies Used
+
+- cURL
+- Shell scripting
+
+<hr><br>
+
 ## How to Run
 
 1. Just start it
@@ -23,6 +39,13 @@ Doing something fun with cURL.
   
 ![1](https://github.com/user-attachments/assets/77e66fea-47b4-45ab-afb2-8265f0fdd9b0)
 </div>
+
+<hr><br>
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 <hr><br>
 
 <div align=center>
