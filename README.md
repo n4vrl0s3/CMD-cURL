@@ -42,14 +42,14 @@ Doing something fun with cURL.
 
 ## Project Setup
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/yourusername/CMD-cURL.git
    cd CMD-cURL
    ```
 
-2. Ensure you have cURL installed:
+2. **Ensure you have cURL installed:**
    ```bash
    curl --version
    ```
@@ -58,7 +58,7 @@ Doing something fun with cURL.
 
 ## Steps to Run
 
-1. Just start it
+1. **Just start it**
 
 <div align=center>
   
