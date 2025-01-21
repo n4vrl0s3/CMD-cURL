@@ -1,6 +1,6 @@
 <div align=center>
   
-![Demo](https://github.com/user-attachments/assets/446e70c4-be6a-49ac-950e-506a86421309)
+![Header](https://github.com/user-attachments/assets/446e70c4-be6a-49ac-950e-506a86421309)
 </div>
 
 # cURL
@@ -12,6 +12,15 @@ cURL is a versatile command-line tool for transferring data using various protoc
 ## Purpose of This Repository
 
 Doing something fun with cURL.
+
+<hr><br>
+
+## Demo
+
+<div align=center>
+  
+![Demo](https://github.com/user-attachments/assets/77e66fea-47b4-45ab-afb2-8265f0fdd9b0)
+</div>
 
 <hr><br>
 
@@ -31,13 +40,29 @@ Doing something fun with cURL.
 
 <hr><br>
 
-## How to Run
+## Project Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/CMD-cURL.git
+   cd CMD-cURL
+   ```
+
+2. Ensure you have cURL installed:
+   ```bash
+   curl --version
+   ```
+
+<hr><br>
+
+## Steps to Run
 
 1. Just start it
 
 <div align=center>
   
-![1](https://github.com/user-attachments/assets/77e66fea-47b4-45ab-afb2-8265f0fdd9b0)
+![How to Start](https://github.com/user-attachments/assets/77e66fea-47b4-45ab-afb2-8265f0fdd9b0)
 </div>
 
 <hr><br>
