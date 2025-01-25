@@ -1,4 +1,4 @@
-# cURL
+# CMD cURL
 
 cURL is a versatile command-line tool for transferring data using various protocols, allowing you to fetch web pages, download and upload files, make HTTP requests, and test APIs.
 
