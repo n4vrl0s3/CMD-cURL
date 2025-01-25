@@ -1,8 +1,3 @@
-<div align=center>
-  
-![Header](https://github.com/user-attachments/assets/446e70c4-be6a-49ac-950e-506a86421309)
-</div>
-
 # cURL
 
 cURL is a versatile command-line tool for transferring data using various protocols, allowing you to fetch web pages, download and upload files, make HTTP requests, and test APIs.
@@ -69,12 +64,12 @@ Doing something fun with cURL.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for details.
 
 <hr><br>
 
-<div align=center>
-  <a href="https://www.instagram.com/guanshiyin_/">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:FF0000,20:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-  </a>
+<div align="center">
+   <a href="https://www.instagram.com/guanshiyin_/">
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+   </a>
 </div>
